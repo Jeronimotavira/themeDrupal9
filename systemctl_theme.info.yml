@@ -18,6 +18,9 @@ regions:
 libraries:
   - systemctl_theme/global-styling
 
+dependencies:
+  - twig_tweak:twig_tweak
+
 version: '9.0.2'
 
 project: 'systemctl_theme'
